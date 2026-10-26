@@ -4,3 +4,6 @@ CLAUDE.md
 .claude/
 docs/LICENCIAS.md
 graphify-out/
+
+# macOS
+.DS_Store
